@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1KTQKcoJ0qJhJplp2rhT1Pf67JakUoLP6
 """
 
-https://drive.google.com/file/d/16Cm2tgrpuDH8eIdxdSYyOsfDPqnJ3byd/view?usp=sharing
+# https://drive.google.com/file/d/16Cm2tgrpuDH8eIdxdSYyOsfDPqnJ3byd/view?usp=sharing
 
 """ФИО:"""
 
